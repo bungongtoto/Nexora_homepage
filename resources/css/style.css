@@ -432,6 +432,7 @@ footer h3 {
     footer {
         flex-direction: column;
         padding-top: 10px;
+        height: 13vh;
     }
 
 }
